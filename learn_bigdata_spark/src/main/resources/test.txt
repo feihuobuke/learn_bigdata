@@ -1,0 +1,4 @@
+Hello world
+Hello Reiser
+Hello Jedi
+Hello Ada
