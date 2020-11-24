@@ -15,6 +15,8 @@
         <module>learn_bigdata_kafka</module>
         <module>learn_bigdata_spark</module>
         <module>learn_bigdata_flink</module>
+        <module>learn_bigdata_practice_flink_ad</module>
+        <module>learn_bigdata_practice_spark_top</module>
     </modules>
 
 

@@ -26,7 +26,7 @@ public class HbaseDemoTest {
         //获取 Admin 对象
         Admin admin = connection.getAdmin();
 
-        TableName studentTable = TableName.valueOf("student");
+        TableName studentTable = TableName.valueOf("context_v30");
         if (admin.tableExists(studentTable)) {
             System.out.println("表已经存在");
         } else {
